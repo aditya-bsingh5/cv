@@ -1,0 +1,16 @@
+.photo-self {
+  width: 200px;
+  height: 200px;
+}
+.intro-table {
+  border-spacing: 20px;
+}
+.content-table {
+  border-spacing: 10px;
+}
+body {
+  border-spacing: 20px;
+}
+h3 {
+  border-spacing: 10px;
+}
